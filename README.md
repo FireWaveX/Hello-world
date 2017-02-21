@@ -1,2 +1,4 @@
 # Hello-world
-just my first repertory
+
+
+gonna rock em' all
