@@ -1,2 +1,5 @@
 # Hello-world
-just my first repertory
+
+
+Just getting started with github for a big project :p
+Gonna rock em' all
